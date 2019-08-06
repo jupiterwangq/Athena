@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#fc464a</color>
+
+    <color name="theme_red_dark">#ca0814</color>
+    <color name="theme_red_light">#fc464a</color>
+
+    <color name="common_gray">#f8f7f6</color>
+
+    <color name="error_color">#F18DA8</color>
+
+    <color name="app_second_level_text_color">#637280</color>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="app_activity_pager_id" type="id"/>
+    <item name="app_activity_tab_id" type="id"/>
+</resources>
